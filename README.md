@@ -1,6 +1,8 @@
 Font.js allows you to load and change fonts with javascript.
 
 # Example
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filovecode1%2Ffontjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filovecode1%2Ffontjs?ref=badge_shield)
+
 
 This is an example on how to load the example font aargh with font.js to a paragraph tag.
 
@@ -54,3 +56,7 @@ Loads the current settings to the query elements (the variable query uses queryS
 # Demo
 
 [Click here for demo.](https://ilovecode1.github.io/fontjs)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filovecode1%2Ffontjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filovecode1%2Ffontjs?ref=badge_large)
